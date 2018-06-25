@@ -3,6 +3,10 @@ Gamotebo Website
 
 ```
 {
-  whatever
+
+    "name" : "StudentName",
+    
+    "lastName" : "StudentLastName"
+    
 }
 ```
