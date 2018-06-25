@@ -1,2 +1,8 @@
 # gamotebo
 Gamotebo Website
+
+```
+{
+  whatever
+}
+```
